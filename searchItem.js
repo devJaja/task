@@ -1,11 +1,11 @@
-//using buildIn method includes
 const num = [1, 2, 3, 4, 5, 6];
+//using buildIn method includes
 
 function searchUsingBuiltIn(arr, target) {
   return arr.includes(target);
 }
 
-console.log(searchUsingBuiltIn(num, 9));
+console.log(searchUsingBuiltIn(num, 5));
 
 //using custom method
 

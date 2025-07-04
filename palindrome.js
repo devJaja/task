@@ -3,7 +3,7 @@ function isPalindrome(str) {
   return str === reversed;
 }
 
-console.log(isPalindrome("omo")); 
+console.log(isPalindrome("ompo")); 
 
 
 function isPalindrome(str) {
@@ -14,4 +14,4 @@ function isPalindrome(str) {
   return str === reversed;
 }
 
-console.log(isPalindrome("racecar"));
+console.log(isPalindrome("OMO"));
